@@ -1,11 +1,16 @@
 _repo: Florence-Nightingale-A-Biography_65762
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65762-h/images/cover.jpg
 creator:
   author:
     agent_name: Matheson, Annie
     gutenberg_agent_id: '53491'
     url: http://www.gutenberg.org/2009/agents/53491
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65762#Florence-Nightingale-A-Biography
 gutenberg_issued: '2021-07-04'
 gutenberg_type: Text
 identifiers:
